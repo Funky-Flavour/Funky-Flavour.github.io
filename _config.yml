@@ -2,16 +2,15 @@
 #
 
 # Site settings
-title: Spectral
+title: Funky Flavour
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+  Sweet happiness, 
+  Served with a smile
+owner: Funky Flavour
+first_published: 2024 
+email: info@funkyflavour.nl
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.funkyflavour.nl" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
